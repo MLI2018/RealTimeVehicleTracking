@@ -1,0 +1,93 @@
+GPS RECEIVER MODULES:
+>> GPS RECEIVER MODULE SKG13BL WITH GPS ANTENNA FOR ARDUINO RASPBERRY PI\
+COST----1335/-
+Ultra highsensitivity: -165dBm
+Extremelyfast TTFF (Time To First Fix) at low signal level
+Low powerconsumption: Typical 45mA@3.3V
+NMEA-0183compliant protocol or custom protocol
+Operatingvoltage: 3.0V to 4.2V
+Operatingtemperature range: -40 to 85?
+SMD typewith stamp holes
+Small formfactor: 15x13x2.7mm
+RoHScompliant (Lead-free) 
+URL:
+  https://www.techtonics.in/products/gps-receiver-module-skg13bl-with-gps-antenna-for-arduino-raspberry-pi
+
+>> VL-MPEu-G2 GPS Reciever
+Accuracy 
+		 Autonomous Position 2.5m
+	 	SBAS Position       2.0m
+		 Velocity            0.01 m/s
+Frequency Range 0.25 Hz to 10 MHz (configurable)
+Interface       3.3V TTL 
+Sensitivity 	
+		Tracking 	-162 dBm
+		Reacquisition 	-160 dBm
+URL: https://www.digikey.in/product-detail/en/versalogic-corporation/VL-MPEU-G2E/1241-1146-ND/4209123
+DataSheet: https://www.versalogic.com/Products/PDF/DS-MPEu-G2.pdf
+
+
+>> Ublox NEO-6M GPS Module Aircraft Flight Controller For Arduino MWC IMU APM2
+COST----575/-
+Supply voltage (VCC):3.3V TO 5V
+Supply current (indicative) <70mA
+Default serial I/O baud rate: 9600
+Module dimensions: 25 x 35mm
+Antenna dimensions: 25 x 25mm
+
+URL: https://www.ebay.in/itm/273006948712?aff_source=Sok-Goog
+  DataSheet:  https://www.u-blox.com/images/downloads/Product_Docs/NEO-6_DataSheet_(GPS.G6-HW-09005).pdf
+
+>> NEO - 6Q/M/P/T/V
+			Sensitivity  : ~ -160dbm
+			accuracy   : 2.5m
+			V/g        : 2.7-3.6V
+
+
+>> GPS Receiver with Antenna (5V TTL SERIAL) 
+-....by Rhudolabz
+MediaTek MT3329 Chipset, L1 Frequency, C/A code, 66 Channels
+TTL asynchronous serial interface
+5 VDC supply @ 55 mA (typical)
+Data output Baud rate: 9600 bps(Default)
+Standard NMEA0183 output format
+Low Power Consumption: 55mA @ acquisition, 40mA @ tracking
+High Sensitivity, -165 dBm, TCXO Design , superior urban performances
+Position Accuracy: <3.0M 2D-RMS
+DGPS (WAAS/EGNOS/MASA/GAGAN) Support
+Multi-path Compensation ; E-GSM-900 Band Rejection
+Cold Start is Under 36 seconds (Typical)
+Warm Start is Under 34 seconds (Typical)
+Hot Start is Under 1 second (Typical)
+Max. Update Rate : 10Hz (Default: 1 Hz)
+URL: http://www.rhydolabz.com/wiki/?p=658
+
+
+
+>> Tracking Shield - GSM/GPRS/GPS (SIM800)
+-....by Rhudolabz
+AT command interface
+Make and receive voice calls
+Send and receive SMS messages
+MMC card slot for data storage
+Quad-band GSM/GPRS Engine: SIM800
+Bluetooth Connectivity, option for connecting chip antenna
+GlobalTop U2P GPS with MediaTek MT3339 Chipset
+Send and receive GPRS data (TCP/IP, HTTP, etc.)
+Configurable Baud rate (9600-115200, factory default value: 9600)
+Standard Audio Jack Connectors for external speaker and mic
+Inbuilt Powerful TCP/IP protocol stack for internet data transfer over GPRS.
+Level shifting circuitry to make it Arduino-safe
+Option to Connect Passive and Active Antenna.
+Indicator LEDs for Power, Netlight, Status, 3D Fix and Keypad LEDs
+Standard Flap type SMA Socket
+Separate Reset switches for both Arduino and the GSM module
+Slide switch to swap the GSM module between Arduino and PC
+Input Voltage: 7V - 12V DC
+Normal operation temperature: -20 °C to +55 °C
+Current: 70mA @ 9V, Stable operation
+Dimensions: 67 x 53 (MM)
+URL: http://www.rhydolabz.com/wiki/?p=10551
+
+More.
+>>  https://www.sparkfun.com/products/retired/8936
