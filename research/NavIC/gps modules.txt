@@ -1,0 +1,16 @@
+
+
+
+
+1)URL:https:  //www.ebay.in/itm/273006948712?aff_source=Sok-Goog
+
+  DataSheet:  https://www.u-blox.com/images/downloads/Product_Docs/NEO-6_DataSheet_(GPS.G6-HW-09005).pdf
+
+
+2)URL:https://www.digikey.in/product-detail/en/versalogic-corporation/VL-MPEU-G2E/1241-1146-ND/4209123
+
+	DataSheet: https://www.versalogic.com/Products/PDF/DS-MPEu-G2.pdf
+
+3)URL: http://www.skylab.com.cn/en/productview-56.html
+
+4)https://www.techtonics.in/products/gps-receiver-module-skg13bl-with-gps-antenna-for-arduino-raspberry-pi
