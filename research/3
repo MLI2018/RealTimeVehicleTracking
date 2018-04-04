@@ -1,0 +1,100 @@
+
+1)RFM95W
+source----adafruit,digikey
+https://www.adafruit.com/product/3072
+2)SX1276
+The SX1276/77/78/79 transceivers-- LoRa long range modem that provides ultra-long range spread spectrum communication and high interference immunity with minimum current consumption.
+can achieve a sensitivity of over -148dBm
+integrated +20dBm power amplifier
+detailed documentation and how-to guides
+FREQUENCY RANGE : 137Mhz to 1.02GHz
+SUPPLY VOLTAGE(min/max) : 1.8/3.7 V
+BANDWIDHT: 7.8-500kHz
+SPREADING FACTOR : 6-12
+EFFECTIVE BITRATE : .018 - 37.5 kbps
+SENSITIVITY (estimated): -111 to -148 dBm
+( using a low cost bill of materials with a 20ppm XTAL LoRa can improve receiver sensitivity by more than 20dB)
+COST: 522.85(+1200/- for delivery)
+168dB maximum link budget
++20dBm - 100mW constant RF output vs. V supply
++14 dBm high efficiency PA
+Programmable bit rate up to 300kbps
+Low RX current of 9.9mA, 200nA register retention
+URLs:
+Datasheet : https://www.mouser.in/pdfdocs/sx1276_77_78_79.pdf
+Product : https://www.mouser.in/search/refine.aspx?Ntk=P_MarCom&Ntt=119424528
+inAir9: http://modtronix.com/inair9.html
+All inAir products: http://modtronix.com/products-modules-wireless-lora
+All the products are for range 868MHz and 915MHz
+(inAir9 is a wireless module using the Semtech SX1276 chip with either SMA/UFL connector for antenna)
+
+
+
+3) LoPy - LoRa, WiFi and Bluetooth Enabled Development Board
+With LoRa, Wifi and BLE, the LoPy is the only triple bearer MicroPython enabled micro controller on the market today – the perfect enterprise grade IoT platform for your connected Things. With the latest Espressif chipset the LoPy offers a perfect combination of power, friendliness and flexibility.
+Key Features:
+Powerful CPU, BLE and state of the art WiFi radio.
+Can also double up as a Nano LoRa gateway
+MicroPython enabled, use the Linux of IoT for 10x faster programming
+Super small and lightweight
+Fits in a standard breadboard (with headers)
+Ultra-low power usage: a fraction compared to other connected micro controllers
+
+Specifications:
+Mechancal
+ Size: 55mm x 20mm x 3.5mm
+Processing
+ Dual processor + WiFi radio System on Chip
+ Network processor handles the WiFi connectivity and the IPv6 stack
+ Main processor entirely free to run the user application
+Memory
+ RAM: 256 KBytes
+ Internal Flash = 1MByte
+ External Flash = 4MByte
+ GPIO: Up to 25
+Interfaces
+ 2 x UART, SPI, I2C, DMA, I2S (audio playback).
+ Internal chip antenna and u.fl connectors for external antennas.
+ Surface mountable and also available with male headers.
+Power
+ Input: 3.3V – 5.5V
+ Wi-Fi:12 mA in active mode, 5uA in standby
+ LoRa: 15mA in active mode, 10uA in standby
+Hash and encryption engines
+ SHA
+ MD5
+ DES
+ AES
+LoRa Specification
+ Semtech LoRa transceiver SX1272
+ LoRaWAN stack.
+ Class A and C devices
+Operating Frequencies
+ 868 MHz (Europe)
+ 915 MHz (North America)
+Range Specification
+ Node range: Up to 40 km
+ Nano-Gateway: Up to 22 km
+ Nano Gateway Capacity:  up to 100 nodes
+WiFi Networking
+ WiFi: 802.11b/g/n 16Mbps
+Bluetooth
+ Bluetooth Low Energy and Classic
+RTC
+ Of course
+DMA
+ All over the place
+Security
+WiFi enterprise security
+ SSL/TLS support
+ AES encryption engine
+
+Find out more on the LoPy including links to IDE and project examples on the official LoPy product page here: https://www.pycom.io/solutions/py-boards/lopy/
+Specs Sheet:
+https://www.pycom.io/wp-content/uploads/2016/09/lopySpecsheetFinal.pdf
+URL
+https://potentiallabs.com/cart/lopy-lora-lorawan-module-wifi-board-india?gclid=EAIaIQobChMIpJ-Pi_ua2gIVTB0rCh0PnwW5EAYYASABEgLczPD_BwE
+https://www.seeedstudio.com/LoPy-p-2785.html
+https://www.adafruit.com/product/3072
+https://potentiallabs.com/cart/Buy-e44-ttl-100-lora-915mhz-online-hyderabad-india
+https://www.ebay.co.uk/itm/433M-Lora-Ra-02-Long-Distance-RF-Wireless-Module-SX1278-IPEX-Socket-for-Arduino-/272630590857
