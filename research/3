@@ -2,6 +2,11 @@
 1)RFM95W
 source----adafruit,digikey
 https://www.adafruit.com/product/3072
+https://www.digikey.com/products/en?mpart=3072&v=1528
+
+
+
+
 2)SX1276
 The SX1276/77/78/79 transceivers-- LoRa long range modem that provides ultra-long range spread spectrum communication and high interference immunity with minimum current consumption.
 can achieve a sensitivity of over -148dBm
